@@ -42,9 +42,9 @@ body {
   
   background-color: #D5D8DC ;
   padding-top: 10px;
-  padding-right: 70px;
+  padding-right: 5px;
   padding-bottom: 50px;
-  padding-left: 80px;
+  padding-left: 10px;
 }
 
 @media screen and(max-width:800px)
